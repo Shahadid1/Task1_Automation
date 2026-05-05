@@ -22,7 +22,7 @@ generates charts, and builds a PDF report.
    pip install -r requirements.txt
 
 2. Set environment variables:
-   export GOOGLE_SHEET_ID="your_sheet_id_here"
+   export GOOGLE_SHEET_ID="1qbk6lH2fjMaiXdRaEQB8U7JiX4Z-TyWeuRxrW0IAGgU"
 
 3. Activate virtual environment:
    source .venv/bin/activate
